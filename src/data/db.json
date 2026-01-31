@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Розовая волна",
+    "img": "https://static.insales-cdn.com/images/products/1/7488/745831744/photo_5447129506679736473_y.jpg",
+    "price": 10000,
+    "avaible": false
+  },
+  {
+    "id": 2,
+    "name": "Неон",
+    "img": "https://static.insales-cdn.com/images/products/1/7488/745831744/photo_5447129506679736473_y.jpg",
+    "price": 10000,
+    "avaible": true,
+    "count": 5
+  },
+  {
+    "id": 3,
+    "name": "Неон",
+    "img": "https://static.insales-cdn.com/images/products/1/7488/745831744/photo_5447129506679736473_y.jpg",
+    "price": 10000,
+    "avaible": false,
+    "count": 13,
+    "category": ["розы", "ё"]
+  }
+]
